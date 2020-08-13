@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "932042799575",
+    "firebase_url": "https://social-networking-app-1d58b.firebaseio.com",
+    "project_id": "social-networking-app-1d58b",
+    "storage_bucket": "social-networking-app-1d58b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932042799575:android:6e8b53b5f6100bf28b7392",
+        "android_client_info": {
+          "package_name": "com.sid507.telegramchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932042799575-avd2uhm872r1nubvdk094a659sphm6mg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sid507.telegramchatapp",
+            "certificate_hash": "47fbdbbe16f5c9e3736ee61d33f6f479facfe398"
+          }
+        },
+        {
+          "client_id": "932042799575-oaor4tsba31rgtu0kd9hmkdqh6c7anua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdwTDqt3OIgd537daKZlOp-h5fg9RAUM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932042799575-oaor4tsba31rgtu0kd9hmkdqh6c7anua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
