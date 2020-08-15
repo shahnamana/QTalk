@@ -26,7 +26,7 @@ def news_call_classifier(fact_check):
 
     headers = {
         'x-rapidapi-host': "bing-news-search1.p.rapidapi.com",
-        'x-rapidapi-key': "<YOUR_API_KEY_FROM_RAPID_API>",
+        'x-rapidapi-key': "1daa73315amsha25dced63e1e976p16fe0djsn4b6547ffa9e5",
         'x-bingapis-sdk': "true"
         }
 
@@ -67,5 +67,5 @@ def predict():
 
 
 if __name__ == "__main__":
-    port = int(os.environ.get('PORT', 5000))
+    port = int(os.environ.get('PORT', 5050))
     app.run(port=port, debug=True, use_reloader=False)
