@@ -26,7 +26,7 @@ def news_call_classifier(fact_check):
 
     headers = {
         'x-rapidapi-host': "bing-news-search1.p.rapidapi.com",
-        'x-rapidapi-key': "1daa73315amsha25dced63e1e976p16fe0djsn4b6547ffa9e5",
+        'x-rapidapi-key': "<YOUR_API_KEY_FROM_RAPID_API>",
         'x-bingapis-sdk': "true"
         }
 
