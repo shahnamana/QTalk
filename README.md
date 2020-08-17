@@ -36,6 +36,7 @@
 * [System Implementation](#systemimplementation)
 * [Applications](#applications)
 * [Conclusion and Future Scope](#conclusion)
+* [Contributing](#contributing)
 * [Our Team](#team)
 
 
