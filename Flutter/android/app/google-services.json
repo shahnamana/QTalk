@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "200866068957",
+    "firebase_url": "https://qtalk-chat-app.firebaseio.com",
+    "project_id": "qtalk-chat-app",
+    "storage_bucket": "qtalk-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200866068957:android:eb92a6316c1494006cde34",
+        "android_client_info": {
+          "package_name": "com.gaurav.qtalkchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200866068957-p3l0hiok6di7o3jbf8q4ntfda5s6221n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gaurav.qtalkchatapp",
+            "certificate_hash": "45a03bb8733c168a5d10f6f50b82e53d22c53bc6"
+          }
+        },
+        {
+          "client_id": "200866068957-u4jvvi20bf87aik2nrcck7joqhhkskcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByOJGhmOFhwQSjT_cH3JT0TVEPCOwePW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200866068957-u4jvvi20bf87aik2nrcck7joqhhkskcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
