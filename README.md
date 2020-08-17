@@ -8,7 +8,7 @@
   <h3 align="center">QTalk</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    An awesome Chat Application developed during Hackathon59
     <br />
     <a href="https://github.com/shahnamana/QTalk"><strong>Explore the docs »</strong></a>
     <br />
