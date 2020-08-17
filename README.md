@@ -35,8 +35,9 @@
 * [System Design](#systemdesign)
 * [System Implementation](#systemimplementation)
 * [Applications](#applications)
-* [Contact](#contact)
 * [Conclusion and Future Scope](#conclusion)
+* [Our Team](#team)
+
 
 
 
