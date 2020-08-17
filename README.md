@@ -32,11 +32,11 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
+* [System Design](#systemdesign)
+* [System Implementation](#systemimplementation)
+* [Applications](#applications)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Conclusion and Future Scope](#conclusion)
 
 
 
