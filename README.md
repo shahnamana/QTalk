@@ -104,7 +104,7 @@ We will soon publish the App on the App Store. Stay Tuned
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Is kids being on social media, parents' greatest online fear ? 
+Are kids being on social media, parents' greatest online fear ? 
 <br />
 Aren’t parents concerned about their child’s privacy ?
 - the explicit and inappropriate content shared online ?
@@ -118,9 +118,11 @@ Don't you think teenagers should be safe online just as they are in everyday lif
 
 <br />
 We developed a Chat App where teenagers can be safe and have fun at the same time. 
+
+<br />
 QTalk helps kids connect and have fun with their friends.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more details, please refer to the [Documentation](https://example.com)_
 
 
 
