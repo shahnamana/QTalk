@@ -31,6 +31,7 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
+* [Demonstration](#Demonstration)
 * [Usage](#usage)
 * [System Design](#system-design)
 * [System Implementation](#system-implementation)
@@ -102,6 +103,15 @@ flutter pub get
 #### To install the App on iOS devices:
 We will soon publish the App on the App Store. Stay Tuned
 
+<!-- Demonstration -->
+## Demonstration
+To view the demonstration of our app and other documents:
+* [Video Demonstration](https://flutter.dev)
+* [Presentation](https://firebase.google.com)
+* [Report](https://www.tensorflow.org)
+* [Marketing Demo](https://keras.io)
+
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -122,8 +132,6 @@ We developed a Chat App where teenagers can be safe and have fun at the same tim
 
 <br />
 QTalk helps kids connect and have fun with their friends.
-
-_For more details, please refer to the [Documentation](https://example.com)_
 
 <!-- System Design -->
 ## System Design
