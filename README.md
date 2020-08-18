@@ -9,7 +9,8 @@
 
   <p align="center">
     creating a safer community for teenagers to socialise
-    <br />
+    <br/>
+    <br>
     <a href="https://github.com/shahnamana/QTalk"><strong>Explore the docs »</strong></a>
     <br />
     An awesome Chat Application developed during Hackathon59
