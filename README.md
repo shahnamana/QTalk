@@ -35,7 +35,6 @@
 * [Demonstration](#Demonstration)
 * [System Design](#system-design)
 * [System Implementation](#system-implementation)
-* [Applications](#applications)
 * [Conclusion and Future Scope](#conclusion)
 * [Contributing](#contributing)
 * [Our Team](#team)
