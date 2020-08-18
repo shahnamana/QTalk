@@ -99,7 +99,7 @@ flutter pub get
 2. Install the App on your mobile phone
 
 #### To install the App on iOS devices:
-
+We will soon publish the App on the App Store. Stay Tuned
 
 <!-- USAGE EXAMPLES -->
 ## Usage
