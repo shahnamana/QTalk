@@ -48,14 +48,17 @@
     <a href="https://github.com/shahnamana/QTalk">
     <img src="images/front.png" alt="Logo">
 </p>
-
+<p align="center">
 Qtalk is a Mobile Chat Application which is similar to WeChat (Chinese App) and comes with more features like censored in the terms of sharing content and chats.
+</p>
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+Our app is built using the following technologies:
+* [Flutter](https://flutter.dev)
+* [Firebase](https://firebase.google.com)
+* [Tensorflow](https://www.tensorflow.org)
+* [Keras](https://keras.io)
+* [CNN ](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 
 
 
