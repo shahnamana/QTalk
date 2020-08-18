@@ -70,7 +70,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is a list things you need to use the software and how to install them.
+This is a list things you need to use the software and how to install them on your mobile phones:
 
 * A valid Google Account
 * Memory Space of 100mb in the device
@@ -80,21 +80,17 @@ This is a list things you need to use the software and how to install them.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+To install on simulator using Android Studio:
+1. Clone the repo
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/shahnamana/QTalk/tree/master/Flutter.git
 ```
-3. Install NPM packages
+2. Install required flutter packages on AndroidStudio
 ```sh
-npm install
+flutter pub get
 ```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
-
-
+3. Connect Simulator to AndroidStudio
+4. Run the main.dart file
 
 <!-- USAGE EXAMPLES -->
 ## Usage
