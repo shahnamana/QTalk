@@ -94,7 +94,7 @@ flutter pub get
 5. Run the main.dart file
 
 #### To install the App on Android Phones:
-1. Download the APK file from the link given below
+1. Download the APK file from the link given : 
 [Download APK](https://example.com)
 2. Install the App on your mobile phone
 
@@ -104,7 +104,14 @@ We will soon publish the App on the App Store. Stay Tuned
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Is kids being on social media, parents' greatest online fear ? Aren’t parents concerned about their child’s privacy ?
+- the explicit and inappropriate content shared online ?
+- fear of cyberbullying ?
+- the sexual exploitation ?
+- the cyber threats ?
+- And the dangerous propaganda all over the internet ?
+Don't you think teenagers should be safe online just as they are in everyday life ?
+We developed a Chat App where teenagers can be safe and have fun at the same time. QTalk helps kids connect and have fun with their friends.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
