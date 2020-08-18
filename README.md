@@ -80,17 +80,26 @@ This is a list things you need to use the software and how to install them on yo
 
 ### Installation
 
-To install on simulator using Android Studio:
+# To install on simulator using Android Studio:
 1. Clone the repo
 ```sh
 git clone https://github.com/shahnamana/QTalk/tree/master/Flutter.git
 ```
-2. Install required flutter packages on AndroidStudio
+2. Add QTalk project on AndroidStudio
+3. Install required flutter packages on AndroidStudio
 ```sh
 flutter pub get
 ```
-3. Connect Simulator to AndroidStudio
-4. Run the main.dart file
+4. Connect Simulator to AndroidStudio
+5. Run the main.dart file
+
+## To install the App on Android Phones:
+1. Download the APK file from the link given below
+[Download APK](https://example.com)
+2. Install the App on your mobile phone
+
+To install the App on iOS devices:
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
