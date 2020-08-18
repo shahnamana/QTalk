@@ -144,6 +144,8 @@ _For more details, please refer to the [Documentation](https://example.com)_
 * Fake News Detection: The text is further passed through Bing Search News API, And once the message is sent, a pop up appears which tells about the truth value of the message. We have developed a FLASK API and uploaded on a hosting platform so anyone with the APK can check and validate the news.
 * Obscene Image Detection: The image given by the user is passed through the ML kit firebase and if found true then the message is discarded and a warning message is shown.
 * Text Extraction: For extracting text from the image we have used ML kit offered by Firebase. It is used because the accuracy is very high and Google has offered support to all models thus providing better and more accurate outputs.
+<br />
+_For more demonstration details, please refer to the [Demo Video](https://example.com)_
 
 <!-- CONTRIBUTING -->
 ## Contributing
