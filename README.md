@@ -145,6 +145,7 @@ _For more details, please refer to the [Documentation](https://example.com)_
 * Obscene Image Detection: The image given by the user is passed through the ML kit firebase and if found true then the message is discarded and a warning message is shown.
 * Text Extraction: For extracting text from the image we have used ML kit offered by Firebase. It is used because the accuracy is very high and Google has offered support to all models thus providing better and more accurate outputs.
 <br />
+
 _For more demonstration details, please refer to the [Demo Video](https://example.com)_
 
 <!-- CONTRIBUTING -->
