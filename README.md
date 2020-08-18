@@ -46,7 +46,7 @@
 ## About The Project
 <p align="center">
     <a href="https://github.com/shahnamana/QTalk">
-    <img src="images/front.png" alt="Logo" width="466" height="497">
+    <img src="images/front.png" alt="Logo">
     [![Product Name Screen Shot][product-screenshot]](https://example.com)
 </p>
 
