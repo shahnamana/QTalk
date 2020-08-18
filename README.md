@@ -26,13 +26,13 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
+* [Usage](#usage)
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Demonstration](#Demonstration)
-* [Usage](#usage)
 * [System Design](#system-design)
 * [System Implementation](#system-implementation)
 * [Applications](#applications)
@@ -40,7 +40,26 @@
 * [Contributing](#contributing)
 * [Our Team](#team)
 
+<!-- USAGE EXAMPLES -->
+## Usage
 
+Are kids being on social media, parents' greatest online fear ? 
+<br />
+Aren’t parents concerned about their child’s privacy ?
+- the explicit and inappropriate content shared online ?
+- fear of cyberbullying ?
+- the sexual exploitation ?
+- the cyber threats ?
+- And the dangerous propaganda all over the internet ?
+
+<br />
+Don't you think teenagers should be safe online just as they are in everyday life ?
+
+<br />
+We developed a Chat App where teenagers can be safe and have fun at the same time. 
+
+<br />
+QTalk helps kids connect and have fun with their friends.
 
 
 <!-- ABOUT THE PROJECT -->
@@ -110,28 +129,6 @@ To view the demonstration of our app and other documents:
 * [Presentation](https://firebase.google.com)
 * [Report](https://www.tensorflow.org)
 * [Marketing Demo](https://keras.io)
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Are kids being on social media, parents' greatest online fear ? 
-<br />
-Aren’t parents concerned about their child’s privacy ?
-- the explicit and inappropriate content shared online ?
-- fear of cyberbullying ?
-- the sexual exploitation ?
-- the cyber threats ?
-- And the dangerous propaganda all over the internet ?
-
-<br />
-Don't you think teenagers should be safe online just as they are in everyday life ?
-
-<br />
-We developed a Chat App where teenagers can be safe and have fun at the same time. 
-
-<br />
-QTalk helps kids connect and have fun with their friends.
 
 <!-- System Design -->
 ## System Design
