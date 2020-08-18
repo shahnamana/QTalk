@@ -86,12 +86,13 @@ This is a list things you need to use the software and how to install them on yo
 git clone https://github.com/shahnamana/QTalk/tree/master/Flutter.git
 ```
 2. Add QTalk project on AndroidStudio
-3. Install required flutter packages on AndroidStudio
+3. Link your Active Firebase Account to the project 
+4. Install required flutter packages on AndroidStudio
 ```sh
 flutter pub get
 ```
-4. Connect Simulator to AndroidStudio
-5. Run the main.dart file
+5. Connect Simulator to AndroidStudio
+6. Run the main.dart file
 
 #### To install the App on Android Phones:
 1. Download the APK file from the link given : 
@@ -126,10 +127,13 @@ _For more details, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- System Design -->
+## System Design
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+<p align="center">
+    <a href="https://github.com/shahnamana/QTalk">
+    <img src="images/design.png" alt="Logo">
+</p>
 
 
 
