@@ -64,18 +64,19 @@ Our app is built using the following technologies:
 
 <!-- GETTING STARTED -->
 ## Getting Started
-<p align="center">
+
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-</p>
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+This is a list things you need to use the software and how to install them.
+
+* A valid Google Account
+* Memory Space of 100mb in the device
+* For Android Users : Android 4.1 and above
+* For iOS Users : iOS 8 and above
+* User shall provide App Permissions when asked
 
 ### Installation
 
