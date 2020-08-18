@@ -146,7 +146,7 @@ _For more details, please refer to the [Documentation](https://example.com)_
 * Text Extraction: For extracting text from the image we have used ML kit offered by Firebase. It is used because the accuracy is very high and Google has offered support to all models thus providing better and more accurate outputs.
 <br />
 
-_For more demonstration details, please refer to the [Demo Video](https://example.com)_
+For more demonstration details, please refer to the [Demo Video](https://example.com)
 
 <!-- CONTRIBUTING -->
 ## Contributing
