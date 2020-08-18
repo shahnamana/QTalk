@@ -8,10 +8,11 @@
   <h3 align="center">QTalk</h3>
 
   <p align="center">
-    An awesome Chat Application developed during Hackathon59
+    creating a safer community for teenagers to socialise
     <br />
     <a href="https://github.com/shahnamana/QTalk"><strong>Explore the docs »</strong></a>
     <br />
+    An awesome Chat Application developed during Hackathon59
     <br />
     <a href="https://github.com/shahnamana/QTalk">View Demo</a>
     ·
