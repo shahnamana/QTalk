@@ -11,9 +11,7 @@
     <a href="https://github.com/shahnamana/QTalk"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/shahnamana/QTalk">View Demo</a>
-    ·
-    [Demonstration](#Demonstration)
+    <a href="https://github.com/shahnamana/QTalk#Demonstration">View Demo</a>
     .
     <a href="https://github.com/shahnamana/QTalk/issues">Report Bug</a>
     ·
@@ -35,7 +33,7 @@
 * [Demonstration](#Demonstration)
 * [System Design](#system-design)
 * [System Implementation](#system-implementation)
-* [Conclusion and Future Scope](#conclusion)
+* [Conclusion and Future Scope](#Conclusion-and-Future-Scope)
 * [Contributing](#contributing)
 * [Our Team](#team)
 
@@ -158,6 +156,16 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+<!-- Conclusion and Future Scope -->
+## Conclusion and Future Scope
+For future scope the app can have :
+* A better UI as compared to the current one.
+* More file sharing options(currently only image sharing is possible in jpg, jpeg and png
+formats).
+* Frequently contacted chats on the home page.
+* Video calling and normal audio calling feature.
+* Restriction of features based on age.
+* Better accuracy for fake news detection.
 
 
 <!-- LICENSE -->
