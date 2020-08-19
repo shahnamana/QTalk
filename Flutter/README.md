@@ -1,6 +1,5 @@
-Flutter Android & iOS Chat App like Telegram using Firebase Firestore.
-Developed by: Coding Cafe
 
+## QTalk Chat App - creating a safer community for teenagers to socialise
+<br />
 
-Mail us at:
-alizeb875@gmail.com
+### Developed by Team Chaos for Hackathon59
