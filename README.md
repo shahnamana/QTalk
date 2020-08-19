@@ -175,3 +175,14 @@ Contributions are what make the open source community such an amazing place to b
     <img src="images/team.png" alt="Logo" width="576" height="300">
   </a>
 </p>
+<br /> 
+
+* [Gaurav Khatwani](https://www.linkedin.com/in/gaurav-khatwani-7024991a9/)
+* [Jay Shah](https://www.linkedin.com/in/jay-shah-526198195/)
+* [Jugal Chauhan](https://www.linkedin.com/in/jugal-chauhan-8422b9157/)
+* [Naman Shah](https://www.linkedin.com/in/naman-shah-95493378/)
+* [Siddharth Mishra](https://github.com/siddharthenterprise)
+
+<br />
+
+[Back to Top](https://github.com/shahnamana/QTalk)
