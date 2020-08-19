@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/shahnamana/QTalk">
-    <img src="images/logo.png" alt="Logo" width="120" height="120">
+    <img src="images/logo.png" alt="Logo" width="500" height="500">
   </a>
 
   <h3 align="center">QTalk - creating a safer community for teenagers to socialise</h3>
