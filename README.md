@@ -185,4 +185,4 @@ Contributions are what make the open source community such an amazing place to b
 
 <br />
 
-[Back to Top](https://github.com/shahnamana/QTalk)
+[Back to Top](https://github.com/shahnamana/QTalk#table-of-contents)
