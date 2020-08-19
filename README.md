@@ -35,7 +35,7 @@
 * [System Implementation](#system-implementation)
 * [Conclusion and Future Scope](#Conclusion-and-Future-Scope)
 * [Contributing](#contributing)
-* [Our Team](#team)
+* [Our Team](#Our-Team)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -113,7 +113,7 @@ flutter pub get
 
 #### To install the App on Android Phones:
 1. Download the APK file from the link given : 
-[Download APK](https://example.com)
+[Download APK](https://drive.google.com/drive/folders/1mlQZV3QwbW09TozY6Yaae2O4AqxPgVaM)
 2. Install the App on your mobile phone
 
 #### To install the App on iOS devices:
@@ -122,10 +122,10 @@ We will soon publish the App on the App Store. Stay Tuned
 <!-- Demonstration -->
 ## Demonstration
 To view the demonstration of our app and other documents:
-* [Video Demonstration](https://flutter.dev)
-* [Presentation](https://firebase.google.com)
-* [Report](https://www.tensorflow.org)
-* [Marketing Demo](https://keras.io)
+* [Video Demonstration](https://drive.google.com/drive/folders/1mlQZV3QwbW09TozY6Yaae2O4AqxPgVaM)
+* [Presentation](https://drive.google.com/drive/folders/1mlQZV3QwbW09TozY6Yaae2O4AqxPgVaM)
+* [Report](https://drive.google.com/drive/folders/1mlQZV3QwbW09TozY6Yaae2O4AqxPgVaM)
+* [Marketing Demo](https://drive.google.com/drive/folders/1mlQZV3QwbW09TozY6Yaae2O4AqxPgVaM)
 
 <!-- System Design -->
 ## System Design
@@ -166,3 +166,12 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+<!-- Our Team -->
+## Our Team
+<br />
+<p align="center">
+  <a href="https://github.com/shahnamana/QTalk">
+    <img src="images/team.png" alt="Logo" width="576" height="300">
+  </a>
+</p>
