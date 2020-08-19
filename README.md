@@ -5,11 +5,9 @@
     <img src="images/flogo.png" alt="Logo" width="576" height="300">
   </a>
 
-  <h3 align="center">QTalk - creating a safer community for teenagers to socialise</h3>
+  <h3 align="center">An awesome Chat Application developed during Hackathon59</h3>
 
   <p align="center">
-    An awesome Chat Application developed during Hackathon59
-    <br />
     <a href="https://github.com/shahnamana/QTalk"><strong>Explore the docs »</strong></a>
     <br />
     <br />
