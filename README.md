@@ -66,7 +66,7 @@ QTalk helps kids connect and have fun with their friends.
     <img src="images/front.png" alt="Logo">
 </p>
 <p align="center">
-Qtalk is a Mobile Chat Application which is similar to WeChat (Chinese App) and comes with more features like censored in the terms of sharing content and chats.
+Qtalk is a Mobile Chat Application to feature fake news and anomaly detection, real-time language filtering, and clustering techniques for image grouping.
 </p>
 
 ### Built With
@@ -90,7 +90,7 @@ To get a local copy up and running follow these simple example steps.
 This is a list things you need to use the software and how to install them on your mobile phones:
 
 * A valid Google Account
-* Memory Space of 100mb in the device
+* Memory Space of 100MB in the device
 * For Android Users : Android 4.1 and above
 * For iOS Users : iOS 8 and above
 * User shall provide App Permissions when asked
